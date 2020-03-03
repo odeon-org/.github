@@ -1,3 +1,10 @@
 locations:
   - title
   - label_name
+terms:
+  - wip
+  - work in progress
+  - in-progress
+  - do not merge
+  - ⛔
+  - 🚧
