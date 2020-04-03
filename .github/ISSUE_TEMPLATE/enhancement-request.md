@@ -16,7 +16,7 @@ assignees: ''
 <!--- Explain the difference from expected behavior -->
 
 ## Possible Solution
-<!--- Suggest ideas how to implement the addition or change -->
+<!--- Suggest ideas on how to implement the addition or change -->
 <!--- and any alternative solutions or features you've considered. -->
 
 ## Context
