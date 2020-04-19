@@ -1,6 +1,6 @@
 <!--- Provide a general summary of your changes in the title above using -->
-<!--- the Conventional Commits specification format.
-<!--- If the pull request contains multiple types of changes,
+<!--- the project's commit convention format. -->
+<!--- If the pull request contains multiple types of changes, -->
 <!--- e.g.: feat and refactor, split the pull request into multiple ones. -->
 
 ## Description
@@ -20,12 +20,12 @@
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+<!--- If you're unsure about any of these, don't hesitate to ask. -->
 - [ ] My changes meet the acceptance criteria of the mentioned user stories.
-- [ ] My code follows the code style of this project.
+- [ ] My code follows the conventions of this project.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] I have reviewed the PR myself before submitting it for review.
 
 ## Deployment Notes
 
