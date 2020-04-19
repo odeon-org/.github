@@ -1,5 +1,7 @@
-<!--- Provide a general summary of your changes in the title above using the Conventional Commits
-specification format. If the pull request contains multiple types of changes, e.g.: feat and refactor, split the pull request into multiple ones. -->
+<!--- Provide a general summary of your changes in the title above using -->
+<!--- the Conventional Commits specification format.
+<!--- If the pull request contains multiple types of changes,
+<!--- e.g.: feat and refactor, split the pull request into multiple ones. -->
 
 ## Description
 <!--- Describe your changes in detail -->
@@ -27,8 +29,8 @@ specification format. If the pull request contains multiple types of changes, e.
 
 ## Deployment Notes
 
-<!--- Notes regarding deployment of the contained body of work. These should note any
-new dependencies, new scripts, etc. -->
+<!--- Notes regarding deployment of the contained body of work. -->
+<!--- These should note any new dependencies, new scripts, etc. -->
 
 **New environment variables**:
 
