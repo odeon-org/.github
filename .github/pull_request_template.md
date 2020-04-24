@@ -1,10 +1,10 @@
-<!--- Provide a general summary of your changes in the title above using -->
-<!--- the project's commit convention format. -->
+<!--- Provide a general summary of your changes in the title -->
+<!--- above using  the project's commit convention format. -->
 <!--- If the pull request contains multiple types of changes, -->
 <!--- e.g.: feat and refactor, split the pull request into multiple ones. -->
 
 ## Description
-<!--- Describe your changes in detail -->
+<!--- Describe your changes in detail. -->
 
 ## Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
@@ -21,7 +21,7 @@
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. -->
-- [ ] My changes meet the acceptance criteria of the mentioned user stories.
+- [ ] My changes meet the acceptance criteria of the mentioned user stories and issues.
 - [ ] My code follows the conventions of this project.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
