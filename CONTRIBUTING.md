@@ -21,7 +21,7 @@ If you can rebase up a large PR into multiple smaller PRs, then do so. **Note th
 
 A PR description is essential to help the reviewers obtain the necessary context. The description should be informative. It might include a brief description of the problem that’s being solved, and why this is the best approach. If there are any shortcomings to the approach, they should be mentioned. If relevant, include background information such as relevant issues and user stories, benchmark results, and links to design documents.
 
-The title of the PR should follow the commit convention of the project. It should summarize the PR in the imperative form.
+The title of the PR should follow the [Commit Message Guidelines](#commit-message-guidelines). It should summarize the PR in the imperative form.
 
 Even small PRs deserve a little attention to detail. Put the PR in context.
 
