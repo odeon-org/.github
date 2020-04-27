@@ -48,7 +48,7 @@ For example:
 
 #### Responding to Reviews
 
-Part of the purpose of the code review is to improve the author’s change request. Consequently, don’t be offended by your reviewer’s suggestions and take them seriously even if you don’t agree. **Respond to every comment**, even if it’s only a simple “ACK” or “done.” Explain why you made certain decisions, why some function exists, etc. If you can’t come to an agreement with the reviewer, **switch to real-time communication, or seek an outside opinion**.
+Part of the purpose of the code review is to improve the author’s change request. Consequently, don’t be offended by your reviewer’s suggestions and take them seriously even if you don’t agree. **Respond to every comment**, even if it’s only a simple “ACK”, “done”, or a "thumbs up." Explain why you made certain decisions, why some function exists, etc. If you can’t come to an agreement with the reviewer, **switch to real-time communication, or seek an outside opinion**.
 
 
 ### Reviewing Pull Requests
@@ -64,7 +64,7 @@ There is a balance between flow and ensuring the quality of our PRs. As a review
 Any quality issue that will result in a bug should be fixed.
 
 #### Talk in Person if Necessary
-Code review tools and chat-tools allow us to communicate with our peers in an asynchronous and effortless way. But, there are quite a few situations where a proper human interaction, either face to face or via voice/video cannot be bet.
+Code review tools and chat-tools allow us to communicate with our peers in an asynchronous and effortless way. But, there are quite a few situations where a proper human interaction, either face to face or via voice/video, cannot be beaten.
 
 Complex issues, for example, can be much more efficient and positively resolved once you hop over to your colleague or call her and discuss it personally. The same holds true for contentious issues or sensitive matters.
 
@@ -80,9 +80,9 @@ The code review tool is the right communication channel for all simple matters, 
 
 It's sometimes tempting to fix a bug in a PR yourself, or to rework a section to meet coding standards, or just to make a feature better fit your needs.
 
-If you do this, you might interfere with the work of the author and not give him the opportunity to explain what he did.
+If you do this without communicating beforehand with the author, you might interfere with his work and steal him the opportunity to explain what he did. Insteady, use [suggestions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request) to propose code changes that can be easily committed by the author.
 
-Alternatively, if the original PR is “good enough”, raise the changes you'd like to see as separate stories/issues and rework in your own PR.
+Alternatively, you can ask the author to be a collaborator in his PR. Otherwise, if the original PR is “good enough”, raise the changes you'd like to see as separate stories/issues and rework in your own PR.
 
 ### Reference
 
